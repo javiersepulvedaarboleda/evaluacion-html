@@ -1,0 +1,50 @@
+.horizontal{
+    display: flex;
+}            
+
+.autoliderazgo{
+   
+    width: 15rem;
+    height: 10rem;
+    background-color: #f1f50c;
+    border: solid 1px black;
+    color: white;
+    text-align: center;
+    }
+
+    .compromiso{
+        
+         width: 15rem;
+         height: 10rem;
+         background-color: #0f30e9;
+         border: solid 1px black
+         color:   white;
+         text-align: center;
+         }
+
+         .cumplimiento{
+
+             width: 15rem;
+             height: 10rem;
+             background-color: #c20606;
+             border: solid 1px black;
+             color: white;
+             text-align: center;
+             }
+
+.conocimiento{
+    width: 15rem;
+             height: 10rem;
+             background-color: #af0be0;
+             border: solid 1px black;
+             color: white;
+             text-align: center;
+             } 
+}
+
+.vertical{
+    display: flex;
+}
+
+   
+         
